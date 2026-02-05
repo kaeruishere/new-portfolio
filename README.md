@@ -1,23 +1,3 @@
-# Aathif Zahir – Full Stack Developer Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://aathifzahir.dev)
-[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aathifzahir/portfolio)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-[![License](https://img.shields.io/badge/MIT-green?style=for-the-badge)](LICENSE)
-
----
-
-![Portfolio Screenshot](./public/screenshot.png)
-
-## Overview
-
-Welcome to the personal portfolio of **Aathif Zahir**, a passionate Software Engineering undergraduate with a strong focus on **full-stack web development**. Currently interning as a **Full Stack Developer**, I bring hands-on experience in building modern web applications and a deep understanding of both frontend and backend technologies. This portfolio is a reflection of my journey, skills, projects, and achievements — built with a modern tech stack and polished UI/UX.
-
----
-
 ## Features
 
 - **Dynamic Content Sections** – About, Skills, Projects, Achievements, and Contact.
@@ -101,15 +81,3 @@ vercel deploy --prod
 ```
 
 ---
-
-## Contact Me
-
-I’m open to collaborations, opportunities, or just a chat!
-
-- 📧 [aathif@example.com](mailto:aathifzahir12@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/aathifzahir)
-- 💻 [GitHub](https://github.com/aathifzahir)
-
----
-
-> © 2025 Aathif Zahir. Built with ❤️ using React, TypeScript, and Tailwind CSS.

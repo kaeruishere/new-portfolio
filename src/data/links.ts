@@ -5,5 +5,5 @@ export const Links = {
     resume: "https://errenn.com/cv",
     emailonly: "kaplanumuteren@gmail.com",
     location: "İzmir, Türkiye",
-    phone: "+90 532 159 4577",
+    phone: "+905321594577",
   };
